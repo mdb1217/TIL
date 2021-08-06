@@ -2,13 +2,13 @@
 
 ### 1. KSP란?
 
-**KSP(Kotlin Symbol Processing)**는 코틀린에서 경량화 된 컴파일러 플러그인을 개발할 수 있는 API다. 학습곡선을 최소한으로 줄이고, 코틀린의 기능을 활용할 수 있는 단순화된 API를 제공한다. KSP는 [KAPT](https://kotlinlang.org/docs/reference/kapt.html)와 비슷한 기능을 제공하지만, 속도가 최대 **2배** 더 빠르고 Kotlin 컴파일러 기능에 직접 액세스할 수 있으며 **여러 플랫폼과의 호환성**을 염두에 두고 개발 중인 도구이다. KSP는 Kotlin 1.4.30 버전 이상과 호환된다.(2021년 8월 7일 기준 KSP는 베타버전이다.)
+**KSP(Kotlin Symbol Processing)** 는 코틀린에서 경량화 된 컴파일러 플러그인을 개발할 수 있는 API다. 학습곡선을 최소한으로 줄이고, 코틀린의 기능을 활용할 수 있는 단순화된 API를 제공한다. KSP는 [KAPT](https://kotlinlang.org/docs/reference/kapt.html)와 비슷한 기능을 제공하지만, 속도가 최대 **2배** 더 빠르고 Kotlin 컴파일러 기능에 직접 액세스할 수 있으며 **여러 플랫폼과의 호환성**을 염두에 두고 개발 중인 도구이다. KSP는 Kotlin 1.4.30 버전 이상과 호환된다.(2021년 8월 7일 기준 KSP는 베타버전이다.)
 
 <br>
 
 ### 2. KSP를 사용해야하는 이유
 
-:arrow_forward: Kotlin은 자체적으로 **어노테이션 프로세싱(Annotation Processing)** 시스템을 갖추고 있지않다. 따라서 **KAPT(Kotlin Annotation Processing Tool)**의 경우 자바단의 어노테이션 프로세싱 시스템을 사용하는데, 이를 위해 Java 스텁(Stubs)을 생성해야해서 KAPT의 경우 실행 속도가 느릴 수 있다.
+:arrow_forward: Kotlin은 자체적으로 **어노테이션 프로세싱(Annotation Processing)** 시스템을 갖추고 있지않다. 따라서 **KAPT(Kotlin Annotation Processing Tool)** 의 경우 자바단의 어노테이션 프로세싱 시스템을 사용하는데, 이를 위해 Java 스텁(Stubs)을 생성해야해서 KAPT의 경우 실행 속도가 느릴 수 있다.
 
 ------
 
@@ -42,7 +42,7 @@ KAPT와 KSP 사용 시 유일한 차이점은 다음의 사진과 같이 두 줄
 | Glide            | Not yet supported                                            | [Link](https://github.com/bumptech/glide/issues/4492)        |
 | DeeplinkDispatch | Not yet supported                                            | [Link](https://github.com/airbnb/DeepLinkDispatch/issues/307) |
 
-[^2021.08.07 기준]: 출처 : https://github.com/google/ksp
+[2021.08.07 기준]
 
 
 
