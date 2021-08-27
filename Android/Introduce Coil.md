@@ -2,7 +2,7 @@
 
 ### 1. Coil이란?
 
-**Co**routine **I**mage **L**oader의 약자이며 Instacart에서 만든 **Kotlin Coroutines(코루틴)**으로 만들어진 가벼운 **이미지 로딩 라이브러리**이다. **Glide**를 많이 벤치마킹 했다고 하며, **ImageView**의 확장함수 형태로 지원된다. 함수형 언어의 특징을 가진 코틀린의 특성상, 다른 라이브러리보다 더욱 간결한코드를 구성할 수 있다.
+**Co**routine **I**mage **L**oader의 약자이며 Instacart에서 만든 **Kotlin Coroutines(코루틴)** 으로 만들어진 가벼운 **이미지 로딩 라이브러리**이다. **Glide**를 많이 벤치마킹 했다고 하며, **ImageView**의 확장함수 형태로 지원된다. 함수형 언어의 특징을 가진 코틀린의 특성상, 다른 라이브러리보다 더욱 간결한코드를 구성할 수 있다.
 
 <br>
 
@@ -13,7 +13,7 @@
 - **Easy to use** - kotlin을 사용하기 때문에 간단하다
 - **Modern** - 최근 library들을 사용한다, Corouitne, OkHttp, Okio, AndroidX Lifecycles
 - 다이나믹 이미지 샘플링을 지원함.
-- Coil의 이미지 파이프라인(PipeLine)은 크게 세 가지로 구성됩니다.
+- Coil의 이미지 파이프라인(PipeLine)은 크게 세 가지로 구성된다.
   **Mappers, Fetchers, Decoders** 이러한 인터페이스를 사용하여 기본 이미지 로딩 기능을 강화하거나 재정의하고 Coil에 새로운 파일 형식에 대한 지원을 추가할 수 있음.
 - **Jetpack Compose**(컴포즈도 Coroutine 기반)와 잘 통합되도록 설계 되었다.
 
