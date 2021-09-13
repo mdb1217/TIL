@@ -17,3 +17,4 @@ Today I Learn
 
 ## Gradle
 - [Gradle Kotlin DSL](https://github.com/mdb1217/TIL/blob/main/Gradle/Gradle%20Kotlin%20DSL.md)
+- [api VS implementation](https://github.com/mdb1217/TIL/blob/main/Gradle/api%20VS%20implementation.md)
