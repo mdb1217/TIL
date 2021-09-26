@@ -4,6 +4,7 @@ Today I Learn
 
 ## Kotlin
 - [Lazy Evaluation을 위한 Sequence](https://github.com/mdb1217/TIL/blob/main/Kotlin/Sequence%20For%20Lazy%20Evaluation.md)
+- [함수를 파라미터로 넘길때 inline functions의 장점](https://github.com/mdb1217/TIL/blob/main/Kotlin/merit%20of%20inline%20function.md)
 - ### Coroutine
   - [Hot Stream VS Cold Stream](https://github.com/mdb1217/TIL/blob/main/Kotlin/Coroutine/Hot%20Stream%20VS%20Cold%20Stream.md)
 - ### KSP
