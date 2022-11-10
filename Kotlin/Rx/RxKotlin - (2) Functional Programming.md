@@ -65,7 +65,7 @@ fun main(args: Array<String>) {
 
 **💡 실행 결과**
 
-![Untitled](2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20RxKotlin%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%20d65f17908669442e8a3d6f34ac9997d2/Untitled.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0d0016f3-76ab-4784-a6da-cb060eec5da8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T120636Z&X-Amz-Expires=86400&X-Amz-Signature=927bc8660be1ffe3ce311ba90e4e931d09a911668696e3909e4d4c27388f2eb1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 💡 **알 수 있는 것**
 
@@ -122,7 +122,7 @@ fun main(args: Array<String>) {
 
 **💡 실행 결과**
 
-![Untitled](2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20RxKotlin%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%20d65f17908669442e8a3d6f34ac9997d2/Untitled%201.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f35e232a-9acb-47e7-b299-becd0fd17cb7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T120802Z&X-Amz-Expires=86400&X-Amz-Signature=baff47d21e9ed641461cb953a0c303c82f2ced63607f5550e4ee54d178faa2a2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 💡 **알 수 있는 것**
 
@@ -152,7 +152,7 @@ fun main(args: Array<String>) {
 
 **💡 실행 결과**
 
-![Untitled](2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20RxKotlin%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%20d65f17908669442e8a3d6f34ac9997d2/Untitled%202.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a48dae8d-fbdd-42f6-b0b9-cc571df62a8d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T120849Z&X-Amz-Expires=86400&X-Amz-Signature=dd0557bdb391c8445de428d1f3b04e1ea10e87960aa96bf93f6420dcc2ffc2eb&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 💡 **알 수 있는 것**
 
@@ -181,7 +181,7 @@ fun main(args: Array<String>) {
 
 **💡 실행 결과**
 
-![Untitled](2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20RxKotlin%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%20d65f17908669442e8a3d6f34ac9997d2/Untitled%203.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cbe4b60c-d96c-426a-9329-188ca40471cb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T120943Z&X-Amz-Expires=86400&X-Amz-Signature=9bdd5232d0c60586f0c288952e11cd9d9c8d13862c3a29b702057d5409f0c95e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 💡 **알 수 있는 것**
 
@@ -270,7 +270,7 @@ fun main(args: Array<String>) {
 - 킹갓황루틴이지만 Rx를 다루는 문서이기 때문에 간단히 다루고 넘어가겠다..ㅎㅎ
 - RxKotlin에서의 동시성 구현은 스케줄러를 통해 이뤄진다(코루틴은 다른 방식!)
 
-![Untitled](2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20RxKotlin%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%20d65f17908669442e8a3d6f34ac9997d2/Untitled%204.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/226be3ab-a123-41c5-8285-ca14b3227dd1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T121115Z&X-Amz-Expires=86400&X-Amz-Signature=10fe85a61127a9f27d64a92e69a0561725472b7b4ec57ba7c6cf5a52a463df8f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 **➕ 더 알아보기..**
 
@@ -288,9 +288,9 @@ fun main(args: Array<String>) {
     2. **unit(return) operator가 있어야 한다.**
     3. **bind operator가 있어야 한다.(가공자)**
     
-    ![스크린샷 2022-11-10 오후 4.49.36.png](2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20RxKotlin%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%20d65f17908669442e8a3d6f34ac9997d2/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2022-11-10_%25EC%2598%25A4%25ED%259B%2584_4.49.36.png)
+    ![스크린샷 2022-11-10 오후 4.49.36.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/02b3dc1f-5080-4373-be5d-1a4ed9325324/스크린샷_2022-11-10_오후_4.49.36.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T121031Z&X-Amz-Expires=86400&X-Amz-Signature=5ce96d322f5d83e88e44e34e3b22413fc77e40ca2a88881c55b16f1bb678f7ac&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7%25202022-11-10%2520%25EC%2598%25A4%25ED%259B%2584%25204.49.36.png%22&x-id=GetObject)
     
-    ![스크린샷 2022-11-10 오후 4.38.38.png](2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20RxKotlin%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%20d65f17908669442e8a3d6f34ac9997d2/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2022-11-10_%25EC%2598%25A4%25ED%259B%2584_4.38.38.png)
+    ![스크린샷 2022-11-10 오후 4.38.38.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cd75ef24-af4a-4cf5-b2b5-31498d5fd124/스크린샷_2022-11-10_오후_4.38.38.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T121154Z&X-Amz-Expires=86400&X-Amz-Signature=d1b80ff4d8f9deb3ae93ba374ba0ffef09258bf94fbde280918ecbbe84a09e65&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA%25202022-11-10%2520%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE%25204.38.38.png%22&x-id=GetObject)
     
 
 ### 💡 Maybe
@@ -324,7 +324,7 @@ fun main(args: Array<String>) {
 
 **💡 실행 결과**
 
-![Untitled](2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20RxKotlin%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%20d65f17908669442e8a3d6f34ac9997d2/Untitled%205.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e86db7e-5c0f-454f-896e-0fcea8e5f764/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T121230Z&X-Amz-Expires=86400&X-Amz-Signature=28eb1f0860b8b947b19f2d587ae1c0888da407c4c5e2b592304f013df4844dfd&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 ### 💡 단일 모나드
 
