@@ -11,6 +11,7 @@ Today I Learn
   - [KSP란 무엇인가?](https://github.com/mdb1217/TIL/blob/main/Kotlin/KSP/What%20Is%20KSP.md)
 - ### RxKotlin(Java)
   - [리액티브 프로그래밍의 소개](https://github.com/mdb1217/TIL/blob/main/Kotlin/Rx/RxKotlin%20-%20(1)%20Basic%20RxKotlin.md)
+  - [코틀린과 RxKotlin을 사용한 함수형 프로그래밍](https://github.com/mdb1217/TIL/blob/main/Kotlin/Rx/RxKotlin%20-%20(2)%20Functional%20Programming.md)
 
 ## Android
 - [Android App Bundle](https://github.com/mdb1217/TIL/blob/main/Android/Android%20App%20Bundle.md)
