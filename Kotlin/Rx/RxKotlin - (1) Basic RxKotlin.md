@@ -185,7 +185,7 @@ fun main(args: Array<String>) {
 
 💡**실행 결과 :** 모든 값을 출력
 
-![Untitled](Rx%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%20abcf1199fe9c4586aef33804dd295055/Untitled.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47846117-34a6-4981-9d25-8f833dc628bb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T002642Z&X-Amz-Expires=86400&X-Amz-Signature=05b0c4a477f1e983f258366a362e1c2c3af6d99d0602653f7ddc1a65b2e9c52b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 💡**동작 과정**
 
@@ -218,7 +218,7 @@ fun main(args: Array<String>) {
 
 💡**실행 결과**
 
-![Untitled](Rx%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%20abcf1199fe9c4586aef33804dd295055/Untitled%201.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3a1a1cfa-2b63-42f8-ac3f-2f03478f1d6e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T003801Z&X-Amz-Expires=86400&X-Amz-Signature=cb4e27e453d342a19ca49c2958126ff5ae37b71be19f50d0c2d4db57fd209e8b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 💡**동작 과정**
 
