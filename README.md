@@ -16,6 +16,7 @@ Today I Learn
   - [백프레셔와 플로어블 소개](https://github.com/mdb1217/TIL/blob/main/Kotlin/Rx/RxKotlin%20-%20(4)%20Backpressure%20and%20Flowable.md)
   - [비동기 데이터 연산자와 변환](https://github.com/mdb1217/TIL/blob/main/Kotlin/Rx/RxKotlin%20-%20(5)%20Asynchronous%20Operator%20and%20Conversion.md)
   - [연산자 및 오류 처리](https://github.com/mdb1217/TIL/blob/main/Kotlin/Rx/RxKotlin%20-%20(6)%20Operator%20and%20Exception%20Handling.md)
+  - [RxKotlin의 스케줄러를 사용한 동시성과 병렬 처리](https://github.com/mdb1217/TIL/blob/main/Kotlin/Rx/RxKotlin%20-%20(7)%20Concurrency%20and%20Parallel%20Processing%20With%20Schdulers.md)  
 
 ## Android
 - [Android App Bundle](https://github.com/mdb1217/TIL/blob/main/Android/Android%20App%20Bundle.md)
