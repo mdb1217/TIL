@@ -46,7 +46,8 @@
 - 즉, `http://schemas.android.com/apk/res-auto` URI를 담는 네임 스페이스
 - 정확히는, `http://schemas.android.com/apk/res/[yourpackage name]` 형식으로 작성
 
-       **ex. 레이아웃 매니저 속성 :** `http://schemas.android.com/apk/res/layoutManager`
+  **ex. 레이아웃 매니저 속성 :** 
+       `http://schemas.android.com/apk/res/layoutManager`
 
 ## 2. app(`http://schemas.android.com/apk/res/[yourpackage name]`) 속성의 용도
 
