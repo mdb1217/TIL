@@ -23,6 +23,7 @@ Today I Learn
 - [Android App Bundle](https://github.com/mdb1217/TIL/blob/main/Android/Android%20App%20Bundle.md)
 - [Coil을 소개합니다!](https://github.com/mdb1217/TIL/blob/main/Android/Introduce%20Coil.md)
 - [Android Annotation](https://github.com/mdb1217/TIL/blob/main/Android/Android%20Annotation.md)
+- [DataBinding을 사용할 때 NameSpace app과 bind의 차이점(이라 쓰고 차이가 없다고 읽는다)](https://github.com/mdb1217/TIL/blob/main/Android/Difference%20between%20using%20'bind'%20and%20'app'%20namespaces.md)
 
 ## Dart
 - [Dart - (1) 기본 문법](https://github.com/mdb1217/TIL/blob/main/Dart/Dart%20-%20(1)%20Basic%20Grammar.md)
